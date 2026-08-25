@@ -48,6 +48,15 @@ This application is for personal safety use only. Users are responsible for comp
 
 ---
 
+## 📦 Installation
+To install the latest version:
+1.  Download the `app-debug.apk` from the latest build.
+2.  Transfer the file to your Android device.
+3.  Enable **"Install from Unknown Sources"** in your device settings.
+4.  Open the APK and follow the installation prompts.
+
+---
+
 ## 👨‍💻 About the Developer
 **Syad Mehedi Hasan Alvi** is a computer science student and developer focused on software, AI, and IoT projects based in **Dhaka, Bangladesh**. 
 
