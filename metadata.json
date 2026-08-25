@@ -1,0 +1,6 @@
+{
+  "name": "Emergency Recorder",
+  "description": "A user-triggered, dual-camera emergency personal safety recorder with triple-shake detection, discreet calculator/black UI, and cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
